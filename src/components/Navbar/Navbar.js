@@ -2,6 +2,7 @@ import React, {Component} from "react";
 import {MenuItems} from "./MenuItems";
 import './Navbar.css'
 import '../icons/fontawesome';
+import {Button} from "../Button";
 
 
 class Navbar extends Component {
@@ -26,6 +27,7 @@ class Navbar extends Component {
                     })}
 
                 </ul>
+                <Button>Sign Up</Button>
             </nav>
         )
     }
