@@ -1,13 +1,12 @@
 import React, {Component} from "react";
 import {MenuItems} from "./MenuItems";
-import './Navbar.css'
-import '../icons/fontawesome';
 import {Button} from "../Button";
+import './Navbar.css'
 
 
 class Navbar extends Component {
     state = {clicked: false}
-    handleClicked = () => {
+    handleClick = () => {
         this.setState({clicked: !this.state.clicked})
     }
 
