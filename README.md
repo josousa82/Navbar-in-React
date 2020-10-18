@@ -7,11 +7,6 @@ One Paragraph of project description goes here
 #### Code Quality
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4c04b09260a4462da1efd8abd560d74b)](https://www.codacy.com/manual/josousa82/Template-Repository/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=josousa82/Template-Repository&amp;utm_campaign=Badge_Grade)
 
-#### CircleCI
-* [![<CircleCI>](https://circleci.com/gh/josousa82/Template-Repository.svg?style=shield)](https://circleci.com/gh/josousa82/Template-Repository)
-  
-#### TravisCI
-* [![Build Status](https://travis-ci.com/josousa82/Template-Repository.svg?branch=master)](https://travis-ci.com/josousa82/Template-Repository) 
 
 ## Getting Started
 - Clone the project
@@ -80,4 +75,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-{{Smallcaps|Note: this is a template README, is still WIP}} 
+****__Note: this is a template README, is still WIP__****
